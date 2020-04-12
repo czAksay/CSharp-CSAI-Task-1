@@ -1,0 +1,12 @@
+C:\Users\HobaY\source\repos\SuperAI\SuperAI\bin\Debug\SuperAI.exe.config
+C:\Users\HobaY\source\repos\SuperAI\SuperAI\bin\Debug\SuperAI.exe
+C:\Users\HobaY\source\repos\SuperAI\SuperAI\bin\Debug\SuperAI.pdb
+C:\Users\HobaY\source\repos\SuperAI\SuperAI\obj\Debug\SuperAI.csprojAssemblyReference.cache
+C:\Users\HobaY\source\repos\SuperAI\SuperAI\obj\Debug\SuperAI.Form1.resources
+C:\Users\HobaY\source\repos\SuperAI\SuperAI\obj\Debug\SuperAI.Properties.Resources.resources
+C:\Users\HobaY\source\repos\SuperAI\SuperAI\obj\Debug\SuperAI.csproj.GenerateResource.cache
+C:\Users\HobaY\source\repos\SuperAI\SuperAI\obj\Debug\SuperAI.csproj.CoreCompileInputs.cache
+C:\Users\HobaY\source\repos\SuperAI\SuperAI\obj\Debug\SuperAI.exe
+C:\Users\HobaY\source\repos\SuperAI\SuperAI\obj\Debug\SuperAI.pdb
+C:\Users\HobaY\source\repos\SuperAI\SuperAI\obj\Debug\SuperAI.ReadText.resources
+C:\Users\HobaY\source\repos\SuperAI\SuperAI\obj\Debug\SuperAI.Name.resources
